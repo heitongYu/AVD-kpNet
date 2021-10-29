@@ -1,2 +1,1 @@
 # AVD-kpNet
-Coming soon.
