@@ -1,3 +1,3 @@
 # AVD-kpNet dataset
-Baidu Drive: https://pan.baidu.com/s/1bCs6pWjsCXJPwh83YKy64A \<br>
+Baidu Drive: https://pan.baidu.com/s/1bCs6pWjsCXJPwh83YKy64A \
 Extraction code: tly7
